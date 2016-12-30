@@ -1,0 +1,8 @@
+http://www.w3schools.com/html/ -o /tmp/html/
+File generated automatically on Wed, 31 Aug 2016 13:08:56, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
